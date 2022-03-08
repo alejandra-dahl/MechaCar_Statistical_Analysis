@@ -35,3 +35,10 @@ After looking at the values in the Total Summary table, it can be seen that the 
 <p align="left">
   <img width="450" src="https://user-images.githubusercontent.com/90485451/157139729-6b8f9bc7-2c75-4753-afec-a066e0dc1914.png">
 </p>
+
+## Deliverable III
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/90485451/157143148-123c5608-8540-41e2-9d17-420e6e1362dd.png">
+</p>
+
