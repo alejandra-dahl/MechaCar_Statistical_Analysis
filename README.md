@@ -66,5 +66,5 @@ After looking at the values in the Total Summary table, it can be seen that the 
    **What is the null hypothesis or alternative hypothesis?**
    
    **What statistical test would you use to test the hypothesis? And why?**
-   
+  
    **What data is needed to run the statistical test?**
