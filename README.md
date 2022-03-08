@@ -57,14 +57,27 @@ After looking at the values in the Total Summary table, it can be seen that the 
 </p>
 
 
-### Study Design: MechaCar vs Competition
+## Deliverable IV: Study Design MechaCar vs Competition
 
-
+An additional study I'd like to design, would be one that showed a comparison to safety rating and city/highway fuel efficiency. There has been an increase in production of environmentally friendly cars so it would interesting to see how safety ratings compare.
 
    **What metric or metrics are you going to test?**
-
+   
+   For my design, I would test fuel efficieny(both city and highway) and safety rating.
+   
    **What is the null hypothesis or alternative hypothesis?**
    
+   The null hypothesis would be: the average safety value of the MechaCar equal to the population mean.
+   Then compare the cost of that vehicle type to the population.
+   
    **What statistical test would you use to test the hypothesis? And why?**
+   
+   I would first try an ANOVA test. This would hopefully show whether the dependent variable changes according to the level of the independent variable. The independent variable in this study woul be cost: high, mid-range, economy. Then I would find out if there is a difference in safety ratings between these groups.
   
    **What data is needed to run the statistical test?**
+   
+   Data needed in this study would be the cost of vehicles split into groups, for example, luxury, high, mid-range, economy. Fuel efficiency data will also be needed. The data would also be split by manufacturer.
+   
+   ---
+   
+
