@@ -36,14 +36,26 @@ After looking at the values in the Total Summary table, it can be seen that the 
 
 ## Deliverable III: T-Tests on Suspension Coils
 
+   **Overall**
+   
+   With a p-value of 0.060, this puts all manufacturing lots above significance level of 0.05. This can mean that there is not enought evidence to reject the null hypothesis. PSI is statistically similar to the population mean.
 
-
-
-
+   **Lot 1**
+   
+  The p-value is 1 which is above significance level. We can't conclude that a significant difference exists.
+  
+   **Lot 2** 
+   
+   The same pertains to lot 2. The p-value is 0.61 which is still above the significance level and that the two means are statistically similar.
+   
+   **Lot 3**
+   
+   The p-value of lot 3 is lower, at 0.042. This shows that it is slightly lower than the common significance level. This lot is statistically different from the population mean and may require more evaulation.
 
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/90485451/157143148-123c5608-8540-41e2-9d17-420e6e1362dd.png">
 </p>
+
 
 ### Study Design: MechaCar vs Competition
 
