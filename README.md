@@ -22,9 +22,16 @@ Our R-squared value is 0.715 or 71.5%. This shows the probability that future da
 
 ## Deliverable II
 
+### Summary Statistics on Suspension Coils:
+
+After looking at the values in the Total Summary table, it can be seen that the data does meet design specifications because the variance is 62.3 which does not exceed 100. Lot 1 and Lot 2 have specs that are within the values found in the summary table. Lot 3 shows the most variance and exceeds manufacture specifiations (170.3 variance) and does not meet design specifications.  
+
+   **Total Summary:**
 <p align="left">
   <img width="300" src="https://user-images.githubusercontent.com/90485451/157139098-c879d307-9e70-4d9c-a5f6-4be2e3ec1c83.png">
 </p> 
+
+   **Lot Summary**
 <p align="left">
   <img width="450" src="https://user-images.githubusercontent.com/90485451/157139729-6b8f9bc7-2c75-4753-afec-a066e0dc1914.png">
 </p>
